@@ -1,0 +1,18 @@
+body {
+    background-color: whitesmoke;
+  }
+  p {
+    color: rgb(51, 51, 51);
+    font-family: 'Courier New', Courier, monospace;
+  }
+  h2{
+    color: rgb(100, 100, 100);
+    font-variant: inherit;
+  }
+  input{
+    background-color: rgb(215, 223, 226);
+  }
+  textarea{
+    background-color: rgb(215, 223, 226);
+    font-variant: small-caps
+  }
